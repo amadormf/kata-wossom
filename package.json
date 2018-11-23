@@ -1,0 +1,14 @@
+{
+  "name": "kata-wossom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --opts tests/mocha.opts tests/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fatigue-test-mocha": "^1.0.1"
+  }
+}

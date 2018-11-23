@@ -1,0 +1,4 @@
+--ui bdd
+--reporter spec
+-r tests/configTests/setup.js
+--timeout 1000
